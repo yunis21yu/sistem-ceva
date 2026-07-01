@@ -37,8 +37,45 @@ La ieșirea din zona electromagnetică, conducta se divide într-un trident hidr
 1. **Canalul Central:** Colectează fluxul de apă dulce purificată și o direcționează către stocare.
 2. **Canalele Laterale (Stânga/Dreapta):** Colectează saramura concentrată și o evacuează separat, prevenind recombinarea chimică.
 
-## 4. SCHEMA DE AMPLASARE A COMPONENTELOR
+## 4. SCHEMA DETALIATĂ A CANALULUI MHD (VEDERE ÎN SECȚIUNE)
 
 
-[CLICK AICI pentru a vedea Diagrama Tehnică 3D a Canalului MHD](https://upload.wikimedia.org/wikipedia/commons/e/e0/Mhd_accelerator.png)
+               AXA Z (Câmp Magnetic B)
+                            |
+                            v
+       +-----------------------------------------+
+       |        MAGNET SUPERIOR (NdFeB N52)      |
+       +-----------------------------------------+
+       |::::::::::::::::: TOP :::::::::::::::::::|
+       +-----------------------------------------+
+                            |
+   =========== INTEGRALĂ ÎN REZISTENȚĂ COMPOSIT ===========
+                            |
+                            v
++---------------------------------------------------------+
+|                                                         | ==> [CANAL DIVERGENT STÂNGA]
+|   [ ELECTROD ANOD (+)]                                  |     (Saramură concentrată Cl-)
+|   Material: Titan Platinat                              |
+|                                                         |
+|  [INTRARE APĂ] ===>    FLUX DE APĂ CURĂTĂ    ===>       | ==> [CANAL CENTRAL HIDRODINAMIC]
+|  (Debit constant)     (Direcție: Axa X, v)              |     (Apă dulce purificată H2O)
+|                                                         |
+|   [ ELECTROD CATOD (-)]                                 |
+|   Material: Titan Platinat                              |
+|                                                         | ==> [CANAL DIVERGENT DREAPTA]
++---------------------------------------------------------+     (Saramură concentrată Na+)
+                            ^
+                            |
+   =========== INTEGRALĂ ÎN REZISTENȚĂ COMPOSIT ===========
+                            |
+                            ^
+       +-----------------------------------------+
+       |:::::::::::::::: BOTTOM :::::::::::::::::|
+       +-----------------------------------------+
+       |        MAGNET INFERIOR (NdFeB N52)      |
+       +-----------------------------------------+
+                            |
+                            |
+                AXA Y (Câmp Electric E)
+
 
