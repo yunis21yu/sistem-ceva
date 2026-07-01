@@ -78,4 +78,9 @@ La ieșirea din zona electromagnetică, conducta se divide într-un trident hidr
                             |
                 AXA Y (Câmp Electric E)
 
+  REZUMATUL CONFIGURAȚIEI GEOMETRICE TRIDIMENSIONALE:
+​Axa X (Orizontală - Lungime): Vectorul Vitezei (v). Direcția de curgere a fluidului de la admisie spre tridentul de evacuare.
+​Axa Y (Orizontală - Lățime): Vectorul Densității de Curent (J). Linia perpendiculară ce unește cei doi electrozi laterali din titan/grafit.
+​Axa Z (Verticală - Înălțime): Vectorul Câmpului Magnetic (B). Linia perpendiculară ce unește polii magnetului superior și inferior.
+
 
