@@ -39,5 +39,6 @@ La ieșirea din zona electromagnetică, conducta se divide într-un trident hidr
 
 ## 4. SCHEMA DE AMPLASARE A COMPONENTELOR
 
-![MHD Channel Diagram](https://upload.wikimedia.org/wikipedia/commons/e/e0/Mhd_accelerator.png)
+
+[CLICK AICI pentru a vedea Diagrama Tehnică 3D a Canalului MHD](https://upload.wikimedia.org/wikipedia/commons/e/e0/Mhd_accelerator.png)
 
